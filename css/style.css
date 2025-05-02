@@ -87,7 +87,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #ca6d6f;
+    color: #9dd3cc;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
@@ -189,16 +189,16 @@ button {
 }
 
 .btn-style2:hover {
-    background-color: #ca6d6f;
-    border: 1px solid #ca6d6f;
+    background-color: #9dd3cc;
+    border: 1px solid #9dd3cc;
     color: #fff;
 }
 
 .btn-style1 {
     padding: 15px 20px;
-    color: #fff;
-    background-color: #ca6d6f;
-    border: 1px solid #ca6d6f;
+    color: #000;
+    background-color: #9dd3cc;
+    border: 1px solid #9dd3cc;
     font-size: 14px;
     letter-spacing: 1px;
     line-height: 1;
@@ -235,8 +235,8 @@ button {
 
 .btn-style:hover {
     color: #fff;
-    background-color: #ca6d6f;
-    border: 2px solid #ca6d6f;
+    background-color: #9dd3cc;
+    border: 2px solid #9dd3cc;
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
 }
@@ -372,7 +372,7 @@ button {
 }
 
 .landing-header .land-header nav ul.nav li:hover a {
-    color: #ca6d6f;
+    color: #9dd3cc;
 }
 
 @media (max-width: 1199px) {
@@ -581,8 +581,8 @@ button {
 }
 
 .landing-text h2.land-main span {
-    color: #ca6d6f;
-    border-bottom: 2px solid #ca6d6f;
+    color: #9dd3cc;
+    border-bottom: 2px solid #9dd3cc;
 }
 
 .landing-text h2 span.replace {
@@ -865,11 +865,11 @@ button {
 }
 
 .flag.box {
-    background-color: #ca6d6f;
+    background-color: #9dd3cc;
 }
 
 .flag.rtl {
-    background-color: #ca6d6f;
+    background-color: #9dd3cc;
 }
 
 .flag.coming {
@@ -1344,7 +1344,7 @@ button {
 }
 
 .landing-header .land-header nav ul.nav li button:hover {
-    color: #ca6d6f;
+    color: #9dd3cc;
 }
 
 .section-title h2 span:last-child {
